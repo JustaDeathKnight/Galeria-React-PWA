@@ -23,6 +23,7 @@ const Cards = () => {
         })}
       </div>
     </div>
+    
   );
 };
 
