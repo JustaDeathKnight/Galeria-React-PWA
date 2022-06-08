@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot del app 1`] = `
+<div
+  role="app"
+>
+  <nav
+    class="navbar navbar-dark bg-dark"
+  >
+    <div
+      class="container-fluid "
+    >
+      <span
+        class="navbar-brand mb-0 h1"
+      >
+        Gallery App
+      </span>
+    </div>
+  </nav>
+  <div
+    class="container border my-2"
+  >
+    <div
+      class="text-center"
+    >
+      <form>
+        <label
+          class="w-75"
+        >
+           
+          Buscar: 
+          <input
+            class="w-100"
+            name="inputText"
+            type="text"
+          />
+           
+        </label>
+        <button
+          class="btn btn-warning  mx-2"
+          type="submit"
+        >
+          <span
+            class="material-icons"
+          >
+            travel_explore
+          </span>
+        </button>
+      </form>
+      <hr />
+      <div
+        class="d-flex justify-content-center"
+      >
+        <div
+          class="spinner-border"
+          role="status"
+        >
+          <span
+            class="visually-hidden"
+          >
+            Loading...
+          </span>
+        </div>
+      </div>
+      <div
+        class="row"
+      />
+    </div>
+  </div>
+  <nav
+    class="navbar navbar-dark bg-dark"
+  >
+    <div
+      class="container-fluid"
+    >
+      <a
+        class="navbar-brand"
+        href="#"
+      >
+        Gowther - © 
+        2022
+      </a>
+    </div>
+  </nav>
+</div>
+`;
