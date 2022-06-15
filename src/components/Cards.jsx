@@ -1,7 +1,7 @@
 import { useFetchImages } from "../hooks/useFetchImages";
 import Card from "./Card";
-import FormImg from "./FormImg";
 import Loading from "./Loading";
+import FormImg from "./Formimg";
 
 const Cards = () => {
   const [images, loading, handleSubmit] = useFetchImages();
